@@ -12,7 +12,7 @@ const Knowledge = () => {
                 <div class="flex flex-wrap -m-2">
                     <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
                         <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
-                            <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="./src/assets/PYTHON.png" />
+                            <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="/src/assets/PYTHON.png" />
                             <div class="flex-grow">
                                 <h2 class="text-gray-900 title-font font-medium">Python</h2>
 
@@ -21,7 +21,7 @@ const Knowledge = () => {
                     </div>
                     <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
                         <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
-                            <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="./src/assets/java.png" />
+                            <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="/src/assets/java.png" />
                             <div class="flex-grow">
                                 <h2 class="text-gray-900 title-font font-medium">Java</h2>
                             </div>
@@ -29,7 +29,7 @@ const Knowledge = () => {
                     </div>
                     <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
                         <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
-                            <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="./src/assets/JS.png" />
+                            <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="/src/assets/JS.png" />
                             <div class="flex-grow">
                                 <h2 class="text-gray-900 title-font font-medium">JavaScript</h2>
                             </div>
@@ -37,7 +37,7 @@ const Knowledge = () => {
                     </div>
                     <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
                         <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
-                            <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="./src/assets/HTML.png" />
+                            <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="/src/assets/HTML.png" />
                             <div class="flex-grow">
                                 <h2 class="text-gray-900 title-font font-medium">HTML</h2>
                             </div>
@@ -45,7 +45,7 @@ const Knowledge = () => {
                     </div>
                     <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
                         <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
-                            <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="./src/assets/CSS.png" />
+                            <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="/src/assets/CSS.png" />
                             <div class="flex-grow">
                                 <h2 class="text-gray-900 title-font font-medium">CSS</h2>
                             </div>
@@ -53,7 +53,7 @@ const Knowledge = () => {
                     </div>
                     <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
                         <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
-                            <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="./src/assets/react.png" />
+                            <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="/src/assets/react.png" />
                             <div class="flex-grow">
                                 <h2 class="text-gray-900 title-font font-medium">React</h2>
 
@@ -62,7 +62,7 @@ const Knowledge = () => {
                     </div>
                     <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
                         <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
-                            <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="./src/assets/Angular.png" />
+                            <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="/src/assets/Angular.png" />
                             <div class="flex-grow">
                                 <h2 class="text-gray-900 title-font font-medium">Angular</h2>
                             </div>
@@ -70,7 +70,7 @@ const Knowledge = () => {
                     </div>
                     <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
                         <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
-                            <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="./src/assets/bootstrap.png" />
+                            <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="/src/assets/bootstrap.png" />
                             <div class="flex-grow">
                                 <h2 class="text-gray-900 title-font font-medium">Bootstrap</h2>
                             </div>
@@ -78,7 +78,7 @@ const Knowledge = () => {
                     </div>
                     <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
                         <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
-                            <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="./src/assets/mongodb.png" />
+                            <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="/src/assets/mongodb.png" />
                             <div class="flex-grow">
                                 <h2 class="text-gray-900 title-font font-medium">MongoDB</h2>
                             </div>
@@ -86,7 +86,7 @@ const Knowledge = () => {
                     </div>
                     <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
                         <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
-                            <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="./src/assets/tailwind-css.svg" />
+                            <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="/src/assets/tailwind-css.svg" />
                             <div class="flex-grow">
                                 <h2 class="text-gray-900 title-font font-medium">TailwindCSS</h2>
                             </div>
@@ -94,7 +94,7 @@ const Knowledge = () => {
                     </div>
                     <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
                         <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
-                            <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="./src/assets/git.png" />
+                            <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="/src/assets/git.png" />
                             <div class="flex-grow">
                                 <h2 class="text-gray-900 title-font font-medium">Git</h2>
                             </div>
@@ -102,7 +102,7 @@ const Knowledge = () => {
                     </div>
                     <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
                         <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
-                            <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="./src/assets/github.png" />
+                            <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="/src/assets/github.png" />
                             <div class="flex-grow">
                                 <h2 class="text-gray-900 title-font font-medium">Github</h2>
                             </div>
