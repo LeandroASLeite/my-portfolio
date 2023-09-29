@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import ContatoModal from './ContatoModal';
-
+import ME from "../assets/me.jpeg";
+import LeandroLeitePDF from "../assets/LeandroLeite.pdf";
 
 const About = () => {
     const [modalOpen, setModalOpen] = useState(false);
@@ -12,16 +13,15 @@ const About = () => {
     const closeModal = () => {
         setModalOpen(false);
     };
+
     const openPDF = () => {
-        window.open('/src/assets/LeandroLeite.pdf', '_blank');
+        window.open(LeandroLeitePDF, '_blank');
     };
 
     return (
-
         <section class="text-gray-600 body-font">
             <div class="container mx-auto flex px-5 py-24 items-center justify-center flex-col">
-                {/* <img class="lg:w-2/6 md:w-3/6 w-5/6 mb-10 object-cover object-center rounded-full" alt="hero" src="/src/assets/me.jpeg" /> */}
-                <img class="lg:w-1/5 md:w-1/5  object-cover object-center rounded-lg mb-10" alt="hero" src="/src/assets/me.jpeg" />
+                <img class="lg:w-1/5 md:w-1/5  object-cover object-center rounded-lg mb-10" alt="hero" src={ME} />
 
                 <div class="text-center lg:w-2/3 w-full">
                     <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">Sobre mim</h1>
@@ -38,8 +38,7 @@ const About = () => {
                 </div>
             </div>
         </section>
-
-    )
+    );
 }
 
-export default About
+export default About;
