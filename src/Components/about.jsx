@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import ContatoModal from './ContatoModal';
+// import Newmodal from './newmodal';
 import ME from "../assets/me.jpeg";
 import LeandroLeitePDF from "../assets/LeandroLeite.pdf";
 
