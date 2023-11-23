@@ -5,6 +5,7 @@ import Nav from './Components/nav'
 import About from './Components/about'
 import Experience from './Components/experience'
 import Knowledge from './Components/knowledge'
+import Highlights from './Components/highlights'
 const App = () => {
   return (<>
     <Nav />
@@ -23,6 +24,9 @@ const App = () => {
     </div>
     <div id="conhecimento">
       <Knowledge />
+    </div>
+    <div id="destaques">
+      <Highlights />
     </div>
   </>
   )

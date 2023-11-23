@@ -20,7 +20,7 @@ const About = () => {
     };
 
     return (
-        <section class="text-gray-600 body-font">
+        <section class="text-gray-600 body-font ">
             <div class="container mx-auto flex px-5 py-24 items-center justify-center flex-col">
                 <img class="lg:w-1/5 md:w-1/5  object-cover object-center rounded-lg mb-10" alt="hero" src={ME} />
 
