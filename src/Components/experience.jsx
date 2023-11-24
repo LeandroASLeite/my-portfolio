@@ -16,49 +16,56 @@ const Experience = () => {
                 </div>
                 <div class="flex flex-wrap -m-4">
                     <div class="p-4 lg:w-1/2">
-                        <div class="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
-                            <img alt="FAI" class="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4" src={furukawa} />
-                            <div class="flex-grow sm:pl-8">
-                                <h2 class="title-font font-medium text-lg text-gray-900">Furukawa Industrial Optoeletrônica Ltda</h2>
-                                <h3 class="text-gray-500 mb-3">2022 - 2025 (previsto)</h3>
-                                <p class="mb-4">Sistemas de Informação</p>
+                        <a href="https://www.furukawalatam.com/pt-br/" target='_blank'>
+                            <div class="hover:animate-fade-right h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
+                                <img alt="Furukawa" class="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4" src={furukawa} />
+                                <div class="flex-grow sm:pl-8">
+                                    <h2 class="title-font font-medium text-lg text-gray-900">Furukawa Industrial Optoeletrônica Ltda</h2>
+                                    <h3 class="text-gray-500 mb-3">2022 - 2025 (previsto)</h3>
+                                    <p class="mb-4">Sistemas de Informação</p>
 
+                                </div>
                             </div>
-                        </div>
-                    </div>
-
-                    <div class="p-4 lg:w-1/2">
-                        <div class="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
-                            <img alt="FAI" class="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4" src={FAI} />
-                            <div class="flex-grow sm:pl-8">
-                                <h2 class="title-font font-medium text-lg text-gray-900">FAI Centro de Ensino Superior em Gestão, Tecnologia e Educação-</h2>
-                                <h3 class="text-gray-500 mb-3">2022 - 2025 (previsto)</h3>
-                                <p class="mb-4">Sistemas de Informação</p>
-
-                            </div>
-                        </div>
+                        </a>
                     </div>
                     <div class="p-4 lg:w-1/2">
-                        <div class="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
-                            <img alt="team" class="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4" src={sisvoo} />
-                            <div class="flex-grow sm:pl-8">
-                                <h2 class="title-font font-medium text-lg text-gray-900">MBM (Sisvôo – Sistemas Eletrônicos Ltda.)</h2>
-                                <h3 class="text-gray-500 mb-3">2021</h3>
-                                <p class="mb-4">Técnico em Eletrônica</p>
+                        <a href="https://www.fai-mg.br/portal/" target='_blank'>
+                            <div class=" hover:animate-fade-left h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
+                                <img alt="FAI" class="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4" src={FAI} />
+                                <div class="flex-grow sm:pl-8">
+                                    <h2 class="title-font font-medium text-lg text-gray-900">FAI Centro de Ensino Superior em Gestão, Tecnologia e Educação-</h2>
+                                    <h3 class="text-gray-500 mb-3">2022 - 2025 (previsto)</h3>
+                                    <p class="mb-4">Sistemas de Informação</p>
 
+                                </div>
                             </div>
-                        </div>
+                        </a>
                     </div>
                     <div class="p-4 lg:w-1/2">
-                        <div class="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
-                            <img alt="team" class="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4" src={ETE} />
-                            <div class="flex-grow sm:pl-8">
-                                <h2 class="title-font font-medium text-lg text-gray-900">Escola Técnica de Eletrônica “Francisco Moreira da Costa”</h2>
-                                <h3 class="text-gray-500 mb-3">2014 - 2016</h3>
-                                <p class="mb-4">Curso técnico de Eletrônica</p>
+                        <a href="https://www.linkedin.com/company/sisvoo-sistemas-eletronicos-ltda./?originalSubdomain=br" target='_blank'>
+                            <div class="hover:animate-fade-right h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
+                                <img alt="team" class="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4" src={sisvoo} />
+                                <div class="flex-grow sm:pl-8">
+                                    <h2 class="title-font font-medium text-lg text-gray-900">MBM (Sisvôo – Sistemas Eletrônicos Ltda.)</h2>
+                                    <h3 class="text-gray-500 mb-3">2021</h3>
+                                    <p class="mb-4">Técnico em Eletrônica</p>
 
+                                </div>
                             </div>
-                        </div>
+                        </a>
+                    </div>
+                    <div class="p-4 lg:w-1/2">
+                        <a href="https://www.etefmc.com.br/" target='_blank' >
+                            <div class="hover:animate-fade-left h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
+                                <img alt="team" class="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4" src={ETE} />
+                                <div class="flex-grow sm:pl-8">
+                                    <h2 class="title-font font-medium text-lg text-gray-900">Escola Técnica de Eletrônica “Francisco Moreira da Costa”</h2>
+                                    <h3 class="text-gray-500 mb-3">2014 - 2016</h3>
+                                    <p class="mb-4">Curso técnico de Eletrônica</p>
+
+                                </div>
+                            </div>
+                        </a>
                     </div>
                 </div>
             </div>
