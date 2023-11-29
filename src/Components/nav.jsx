@@ -22,7 +22,10 @@ const Nav = () => {
                     <a onClick={() => scrollToSection('#experiencia')} className="mr-5 hover:text-gray-900">Experiência</a>
                     <a onClick={() => scrollToSection('#conhecimento')} className="mr-5 hover:text-gray-900">Conhecimento</a>
                     <a onClick={() => scrollToSection('#destaques')} className="mr-5 hover:text-gray-900">Destaques</a>
+                    {/* <a onClick={() => scrollToSection('#timeline')} className="mr-5 hover:text-gray-900">Timeline</a> */}
+
                 </nav>
+
             </div>
         </header>
     )

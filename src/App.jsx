@@ -6,13 +6,11 @@ import About from './Components/about'
 import Experience from './Components/experience'
 import Knowledge from './Components/knowledge'
 import Highlights from './Components/highlights'
+import Timeline from './Components/timeline'
+
 const App = () => {
   return (<>
     <Nav />
-
-
-
-
     <div id="home">
       <Main />
     </div>
@@ -27,6 +25,9 @@ const App = () => {
     </div>
     <div id="destaques">
       <Highlights />
+    </div>
+    <div id="timeline">
+      {/* <Timeline /> */}
     </div>
   </>
   )
